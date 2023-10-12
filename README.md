@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @mg5e
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+git clone https://github.com/username/username.github.io
+cd username.github.io
 
-<!---
-mg5e/mg5e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+echo "Hello World" > index.htmlgit add --all
+
+git commit -m "Initial commit"
+
+git push -u origin main
